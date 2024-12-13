@@ -1,0 +1,20 @@
+.Home2{
+    width: 100%;
+    height: 300px;
+    background-color: lightblue;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.Home2-fancy-Text{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+    color:  #a22750; 
+}
+
+.Home2 p{
+    color: #a22750;
+    padding: 10px;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

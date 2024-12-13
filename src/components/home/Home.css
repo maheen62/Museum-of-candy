@@ -1,0 +1,80 @@
+.fancytext{
+    font-family: 'Lobster', cursive;
+    font-size: 70px;
+    color:  #e1618c; 
+}
+
+.Home{
+    width: 100%; 
+    height: 100vh; 
+    background-image: url('https://media.feverup.com/image/upload/q_auto/v1730137911/hero_fvrxxx.jpg');
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+}
+
+.content{
+    text-align: center;
+    padding-top: 100px;
+}
+
+
+.content h3{
+    color:  #e25584; 
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    font-weight: bolder;
+    font-weight: 900;
+    padding-top: 10px;
+}
+
+.content p{
+    padding-top: 10px;
+    color: #eb467d;
+    font-size: 20px;
+    font-weight: bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.content button{
+    margin-top: 55px;
+    padding: 15px 15px;
+    border-radius: 40px;
+    margin-right: 10px;
+    font-size: 1rem;
+    background-color: #db4f7d;
+    border: none;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.content button:hover{
+    background-color: #7a3049;
+}
+.content h4{
+    color: rgb(231, 109, 130);
+    padding-top: 8px;
+}
+
+.content span{
+    color: rgb(197, 14, 112);
+    font-weight: bolder;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.internet {
+    background-color: rgba(244, 234, 234, 0.7); /* Red color with 70% opacity */
+    width: 25%;
+    display: flex;
+    justify-content: space-evenly;
+    height: 120px;
+    margin: 30px auto;
+    padding: 15px;
+    border-radius: 50px;
+}
+
+.internet-content p {
+    font-size: 15px;
+}

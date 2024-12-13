@@ -1,0 +1,47 @@
+.fancy-text {
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+    color:  #e1618c; 
+    padding-left: 15px;
+}
+
+.Navbar{
+    display: flex;
+    width: 100%;
+    background-color: rgb(244, 245, 246);
+    padding: 1vw 0vw;
+    position: sticky;
+    top: 0;
+    right: 0;
+    z-index: 2;
+  }
+
+ .anchortags{
+     text-align: end;
+ }
+
+ .anchortags button{
+    padding: 15px 15px;
+    border-radius: 40px;
+    margin-right: 10px;
+    margin-left: 45vw;
+    font-size: 1rem;
+    background-color: #e1618c;
+    border: none;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+ }
+
+ .anchortags button:hover{
+    background-color: #7a3049;
+ }
+
+ .anchortags a{
+      text-align: end;
+      margin-left: 2vw;
+      text-decoration: none;
+      font-size: 1rem;
+      color: #e1618c;
+      font-weight: bold;
+ }
