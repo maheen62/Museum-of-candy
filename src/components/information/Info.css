@@ -1,0 +1,23 @@
+
+
+#Info {
+    margin-top: 8rem; 
+    width: 100%; 
+    height: calc(110vh - 8rem);
+    background-image: linear-gradient(rgba(171, 30, 122, 0.3), rgba(160, 20, 111, 0.3)), url('https://www.esquireme.com/cloud/2024/09/18/candy-museum-scaled.jpg');
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+
+.Content {
+    background-color: rgb(222, 169, 216);
+    width: 800px;
+    height: 500px;
+    display: flex;
+    box-shadow: 0 4px 10px rgba(219, 23, 176, 0.2); 
+    border-radius: 10px; 
+}
