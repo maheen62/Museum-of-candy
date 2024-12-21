@@ -1,0 +1,38 @@
+.fancyExperienceText{
+    font-family: 'Lobster', cursive;
+    font-size: 60px;
+    color:  #ac365e; 
+    text-align: center;
+    padding-top: 5rem;
+}
+
+.imgContainer{
+    /* background-color: aqua; */
+    margin-top: 4rem;
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+}
+
+.box1{
+    width: 25%;
+    /* background-color: black; */
+    /* color: white; */
+    text-align: center;
+}
+
+.box1 img{
+    border-radius: 10px;
+}
+
+.box1 h3{
+    padding: 10px 0px;
+    color: #ad315a;
+    font-size: 25px;
+}
+
+.box1 p{
+    color: #ba436b;
+    line-height: 25px;
+    font-size: 18px;
+}
